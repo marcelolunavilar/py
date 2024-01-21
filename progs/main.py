@@ -1,6 +1,6 @@
 from sys import path
 
-path.append('C:\\Users\\marce\\OneDrive\\School\\py\\modules')
+path.append('C:\\Users\\marce\\OneDrive\\School\\Python Certification\\modules')
 
 import module
 

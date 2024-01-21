@@ -1,6 +1,6 @@
 from sys import path
 
-path.append('C:\\Users\\marce\\OneDrive\\School\\py\\packages')
+path.append('C:\\Users\\marce\\OneDrive\\School\\Python Certification\\packages')
 
 import extra.good.best.sigma
 
